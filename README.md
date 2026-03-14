@@ -2,7 +2,7 @@
 
 ### Embedded Software & Hardware Engineer
 
-Embedded systems are where my passion meets practice. I enjoy creating solutions that connect software and hardware — from microcontrollers to embedded Linux platforms — and turning technical ideas into reliable, real-world systems.
+Embedded systems are where my passion meets practice. I enjoy creating solutions that connect software and hardware - from microcontrollers to embedded Linux platforms - and turning technical ideas into reliable, real-world systems.
 
 ---
 
@@ -73,7 +73,7 @@ Embedded systems are where my passion meets practice. I enjoy creating solutions
 ## Education
 
 **Poznan University of Technology**  
-Master of Engineering (MEng), Computer Science — Mobile and Embedded Applications for the Internet of Things
+Master of Engineering (MEng), Computer Science - Mobile and Embedded Applications for the Internet of Things
 
 **Poznan University of Technology**  
 Bachelor of Engineering (BE), Automatic Control and Robotics
