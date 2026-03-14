@@ -1,14 +1,12 @@
 <div align="center">
 
-# Krzysztof Tomicki
-
 ### Embedded Software & Hardware Engineer
 
 Embedded systems are where my passion meets practice. I enjoy creating solutions that connect software and hardware — from microcontrollers to embedded Linux platforms — and turning technical ideas into reliable, real-world systems.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <table align="center">
   <tr>
@@ -72,7 +70,7 @@ Embedded systems are where my passion meets practice. I enjoy creating solutions
   </tr>
 </table>
 
-## 🎓 Education
+## Education
 
 **Poznan University of Technology**  
 Master of Engineering (MEng), Computer Science — Mobile and Embedded Applications for the Internet of Things
