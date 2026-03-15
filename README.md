@@ -70,12 +70,4 @@ Embedded systems are where my passion meets practice. I enjoy creating solutions
   </tr>
 </table>
 
-## Education
-
-**Poznan University of Technology**  
-Master of Engineering (MEng), Computer Science - Mobile and Embedded Applications for the Internet of Things
-
-**Poznan University of Technology**  
-Bachelor of Engineering (BE), Automatic Control and Robotics
-
 </div>
